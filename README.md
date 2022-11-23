@@ -1,6 +1,7 @@
 # Reading Lists 
 
 - [Computer Vision Basic](cv-basic.md)
+- [Review and Survey](review.md)
 - [Classical SLAM](classic.md)
 - Learing-based SLAM
     - [With Learning-based Components](learning-based-components.md)
