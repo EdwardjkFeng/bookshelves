@@ -1,2 +1,3 @@
 - TUM RGB-D
 - ETH3D
+- [ICL-NUIM](https://www.doc.ic.ac.uk/~ahanda/VaFRIC/iclnuim.html)
